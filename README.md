@@ -1,6 +1,8 @@
 # US_Bikershare_Project
 Udacity Project using Python
-The aim of this project is to uncover the usage patterns of bikeshare system USA, using a comparison between three large cities: Chicago, New York, and Waschington, DC. 
+
+The main aim of this project is to uncover the usage patterns of bikeshare system in USA, using a comparison between three large cities: Chicago, New York, and Waschington, DC. By using the written code, The user will get an interactive experience by providing the inut and get the desired statistics.
+
 
 The Datasets 
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:

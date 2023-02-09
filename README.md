@@ -15,7 +15,11 @@
 <li>Start Station (e.g., Broadway & Barry Ave)
 <li>End Station (e.g., Sedgwick St & North Ave)
 <li>User Type (Subscriber or Customer)
+</ul>
+
 
 The Chicago and New York City files also have the following two columns:
+<ul>
 <li>Gender
 <li>Birth Year
+</ul>

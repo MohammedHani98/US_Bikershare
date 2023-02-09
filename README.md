@@ -15,6 +15,8 @@ Randomly selected data for the first six months of 2017 are provided for all thr
 <li>Start Station (e.g., Broadway & Barry Ave)
 <li>End Station (e.g., Sedgwick St & North Ave)
 <li>User Type (Subscriber or Customer)
+
+  
 The Chicago and New York City files also have the following two columns:
 <li>Gender
 <li>Birth Year
